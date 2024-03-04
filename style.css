@@ -1,0 +1,24 @@
+.timerBtn{
+    width:80px;
+    height: 30px;
+    border-width: 3px black;
+    border-radius: 12px;
+    background-color:#1f2d42;
+    color:white;
+    cursor:pointer;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+  #timeDisplay{
+      font-size:75px;
+      color:#23d94a;
+  
+  }
+  #timeContainer{
+      display: center;
+      border:3px solid;
+      border-radius:25px;
+      background-color: #0e084f;
+      display:flex;
+      justify-content:center;
+      align-items:center;
+  }
